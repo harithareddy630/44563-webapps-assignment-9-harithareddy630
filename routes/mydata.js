@@ -6,4 +6,4 @@ router.get('/', function(req, res, next) {
   res.render('mydata', { title: 'Haritha Kothalachinta' });
 });
 
-module.exports = router;
+module.exports = router; 

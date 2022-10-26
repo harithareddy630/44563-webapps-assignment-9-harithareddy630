@@ -8,4 +8,4 @@ router.get('/', function(req, res, next) {
   res.send('user accesses are:'+times); 
 });
 
-module.exports = router; 
+module.exports = router;  
